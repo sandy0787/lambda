@@ -10,7 +10,7 @@ public class ExampleFive {
 		List<String> list = new ArrayList<String>();
 		list.add("Sandeep");
 		list.add("Chanky");
-		list.add("Nisha");
+		list.add("Parvat");
 		
 		//for loop without Lambda
 		for(String name : list) {
